@@ -1,2 +1,4 @@
 OpenCVTest.xcodeproj/project.xcworkspace
 OpenCVTest.xcodeproj/xcuserdata
+*.o
+opencvtest
